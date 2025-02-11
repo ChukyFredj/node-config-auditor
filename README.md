@@ -94,5 +94,3 @@ Chuky Fredj - chukyfredj@gmail.com
 - Première version stable
 - Implémentation de l'analyse des dépendances
 - Ajout des recommandations de flags Node.js
-- Intégration de l'API Snyk
-```
